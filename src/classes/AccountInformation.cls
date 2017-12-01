@@ -5,7 +5,7 @@ public class AccountInformation {
     
     public static void createAccountRec() {
         Account acc = new Account(Name= 'fred');
-        System.debug('Fred....66..');
+        System.debug('Fred....66..8');
         insert acc;
     }
     
