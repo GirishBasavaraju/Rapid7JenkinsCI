@@ -14,9 +14,8 @@
         username="${sf.username}"
         password="${sf.password}"
         serverurl="${sf.serverurl}"
-		    runAllTests="true"
-        deployRoot="src"
-        />
+	runAllTests="true"
+        deployRoot="src"/>
     </target> 
 
     <target name="deployEmptyCheckOnly">
